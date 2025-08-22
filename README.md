@@ -1,4 +1,4 @@
-<img width="1448" height="957" alt="image-20250822111843732" src="https://github.com/user-attachments/assets/f8d92d2a-bf11-45a8-b74c-a22980fafccc" /># Config Meta Editor
+# Config Meta Editor
 
 - ### 개요
 
