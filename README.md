@@ -1,4 +1,4 @@
-# Config Meta Editor
+<img width="1448" height="957" alt="image-20250822111843732" src="https://github.com/user-attachments/assets/f8d92d2a-bf11-45a8-b74c-a22980fafccc" /># Config Meta Editor
 
 - ### 개요
 
@@ -7,3 +7,4 @@
   - 에디터 상에서는 ScriptableObject의 수치를 먼저 변경하고 기존의 Json 데이터와 비교하여 변경점이 있을 경우 해당 데이터의 색상을 변경하여 사용자에게 알림
   - Tooltip Attribute 필드의 내용을 그대로 적용하여 별도의 텍스트를 입력하지 않고 Label을 입력
  
+<img width="1448" height="957" alt="image-20250822111843732" src="https://github.com/user-attachments/assets/678c4196-1400-41fa-beeb-c1e63fa5878a" />
